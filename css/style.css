@@ -960,7 +960,7 @@ ul.laundryka-slider2-top-tag-box li:nth-child(3) {
 }
 
 .laundryka-workes-steap-area .col-xl-3:nth-child(2n+1) .single-works-steap-box .works-steap-icon-box:after {
-    content: url(assets/img/works/1.png);
+    content: url(./../img/works/1.png);
     height: 100px;
     position: absolute;
     right: -90%;
@@ -969,7 +969,7 @@ ul.laundryka-slider2-top-tag-box li:nth-child(3) {
 }
 
 .single-works-steap-box .works-steap-icon-box:after {
-    content: url(assets/img/works/2.png);
+    content: url(./../img/works/2.png);
     height: 100px;
     position: absolute;
     right: -90%;
